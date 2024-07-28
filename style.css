@@ -1,0 +1,261 @@
+html{
+    background-color: black;
+    display: inline-block;
+}
+h1{
+    color: white;
+    font-size: 5rem;
+}
+p{
+    color: white;
+    font-size: 1rem;
+}
+p.text2{
+    margin-left: 100px;
+}
+p.text1{
+    margin-right: 100px;
+}
+p.text3{
+    margin-left: 100px;
+}
+p.text4{
+    margin-right: 100px;
+}
+p.text5{
+    margin-left: 100px;
+}
+p.text6{
+    margin-left: 100px;
+}
+.left{
+    width: 500px;
+    height: 300px;
+    border: 3px solid yellow;
+    float: left;
+}
+.right{
+    width: 500px;
+    height: 300px; 
+    border: 3px solid yellow;
+    float: right;
+    display: inline;
+    margin-top: 180px;
+
+}
+.left2{
+    width: 500px;
+    height: 300px;
+    border: 3px solid yellow;
+    float: left;
+    margin-top: 190px;
+    
+}
+.right2{
+    width: 500px;
+    height: 300px; 
+    border: 3px solid yellow;
+    float: right;
+    display: inline;
+    margin-top: 170px;
+}
+.left3{
+    width: 500px;
+    height: 300px;
+    border: 3px solid yellow;
+    float: left;
+    margin-top: 170px;
+}
+.right3{
+    width: 500px;
+    height: 300px; 
+    border: 3px solid yellow;
+    float: right;
+ 
+    margin-top: 160px;
+}
+div.beans{
+    
+    text-align: center;
+    font-family: "Orbitron", sans-serif;
+    display: inline;
+}
+div.egg{
+
+    margin-top: 200px;
+    font-family: "Orbitron", sans-serif;
+}
+.beans2{
+
+    margin-right: 100px;
+    text-align: center;
+    font-family: "Orbitron", sans-serif;
+    margin-top: 200px;
+   
+}
+.egg2{
+    text-align: center;
+    margin-top: 190px;
+    font-family: "Orbitron", sans-serif;
+    margin-left: 150px;
+
+}
+.beans3{
+
+    margin-right: 100px;
+    text-align: center;
+    font-family: "Orbitron", sans-serif;
+    margin-top: 190px;
+}
+.egg3{
+    text-align: center;
+    margin-top: 180px;
+    font-family: "Orbitron", sans-serif;
+
+
+}
+    
+
+.logo{
+    margin-left: 400px;
+}
+h1{
+    margin-left: 200px;
+    font-family: "Orbitron", sans-serif;
+    text-transform: uppercase;
+}
+span{
+    color: orangered;
+}
+
+@media (max-width:600px) {
+    body{
+        background-color: gray;
+        display: inline-block;
+    }
+    h1{
+        color: white;
+        font-size: 3rem;
+    }
+    p{
+        color: white;
+        font-size: 0.9rem;
+    }
+    p.text2{
+        margin-left: 50px;
+    }
+    p.text1{
+        margin-right: 50px;
+    }
+    p.text3{
+        margin-left: 50px;
+    }
+    p.text4{
+        margin-right: 50px;
+    }
+    p.text5{
+        margin-left: 50px;
+    }
+    p.text6{
+        margin-left: 50px;
+    }
+    .left{
+        width: 350px;
+        height: 150px;
+        border: 2px solid yellow;
+        float: left;
+    }
+    .right{
+        width: 350px;
+        height: 150px; 
+        border: 2px solid yellow;
+        float: right;
+        display: inline;
+        margin-top: 90px;
+    
+    }
+    .left2{
+        width: 350px;
+        height: 150px;
+        border: 2px solid yellow;
+        float: left;
+        margin-top: 95px;
+        
+    }
+    .right2{
+        width: 350px;
+        height: 150px; 
+        border: 2px solid yellow;
+        float: right;
+        display: inline;
+        margin-top: 85px;
+    }
+    .left3{
+        width: 350px;
+        height: 150px;
+        border: 2px solid yellow;
+        float: left;
+        margin-top: 85px;
+    }
+    .right3{
+        width: 350px;
+        height: 150px; 
+        border: 2px solid yellow;
+        float: right;
+     
+        margin-top: 80px;
+    }
+    div.beans{
+        
+        text-align: center;
+        font-family: "Orbitron", sans-serif;
+        display: inline;
+    }
+    div.egg{
+    
+        margin-top: 100px;
+        font-family: "Orbitron", sans-serif;
+    }
+    .beans2{
+    
+        margin-right: 50px;
+        text-align: center;
+        font-family: "Orbitron", sans-serif;
+        margin-top: 100px;
+       
+    }
+    .egg2{
+        text-align: center;
+        margin-top: 95px;
+        font-family: "Orbitron", sans-serif;
+        margin-left: 75px;
+    
+    }
+    .beans3{
+    
+        margin-right: 50px;
+        text-align: center;
+        font-family: "Orbitron", sans-serif;
+        margin-top: 95px;
+    }
+    .egg3{
+        text-align: center;
+        margin-top: 90px;
+        font-family: "Orbitron", sans-serif;
+    
+    
+    }
+        
+    
+    .logo{
+        margin-left: 200px;
+    }
+    h1{
+        margin-left: 100px;
+        font-family: "Orbitron", sans-serif;
+        text-transform: uppercase;
+    }
+    span{
+        color: orangered;
+    }
+}
